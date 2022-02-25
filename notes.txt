@@ -5,6 +5,4 @@ folder create naem it
 rest insdoide our log in the folder 
 project me have given after id using phpstorm 
 using anything like vs 
-
-
 database php file 
